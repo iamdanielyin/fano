@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "umi dev"
+  },
+  "dependencies": {
+    "fano-antd": "latest"
+  },
+  "devDependencies": {
+    "umi": "latest",
+    "umi-plugin-react": "latest"
+  }
+}

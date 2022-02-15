@@ -1,0 +1,1 @@
+import 'fano-antd/lib/index.less'
